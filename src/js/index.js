@@ -1,3 +1,4 @@
+alert('Recomendado: Zoom 80%')
 
 const persnagens = document.querySelectorAll(".personagem");
 
